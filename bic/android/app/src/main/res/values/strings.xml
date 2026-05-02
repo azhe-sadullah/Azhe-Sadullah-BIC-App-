@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BIC Social</string>
+    <string name="facebook_app_id">1415849946290739</string>
+    <string name="fb_login_protocol_scheme">fb1415849946290739</string>
+    <string name="facebook_client_token">cd1ce58d62a23ae9e0f2d57c3302c3e1</string>
+</resources>
